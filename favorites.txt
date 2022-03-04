@@ -2,3 +2,9 @@ apple
 chicken
 chocolate
 magnem
+rambo
+rocky
+starwars
+marvel
+dc
+fifth element
